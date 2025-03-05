@@ -1,4 +1,4 @@
-## What is this page?
+## What is this page for?
 This page is for Hao Yu's 'CSCA 5622 Supervised Learning Final Project'. Please note the deadline for this project is 03/07/2025.
 
 ## Dataset source
