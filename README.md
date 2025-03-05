@@ -1,3 +1,6 @@
+## What is this page?
+This page is for Hao Yu's 'CSCA 5622 Supervised Learning Final Project'. Please note the deadline for this project is 03/07/2025.
+
 ## Dataset source
 https://archive.ics.uci.edu/dataset/80/optical+recognition+of+handwritten+digits
 
